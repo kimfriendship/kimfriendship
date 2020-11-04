@@ -3,9 +3,9 @@
 
 ### Things about me 👩🏻‍💻
 
-🌱 I'm learning to be a front-end developer.  
-📝 I'm trying to write TIL everyday on [my blog](https://velog.io/@kimfriendship/series/TIL).  
-🔥 At the moment, I'm focusing on algorithms and data structure. 
+📝  I'm trying to write TIL everyday on [my blog](https://velog.io/@kimfriendship/series/TIL).  
+🔥  At the moment, I'm focusing on algorithms and data structure.   
+📬  If you'd like to see my resume, please email me!
 
 
 ### Tools & Techs 🛠
