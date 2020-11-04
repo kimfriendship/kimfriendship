@@ -3,7 +3,7 @@
 
 ### Things about me 👩🏻‍💻
 
-🌱 I started learning programming at the beginning of 2020 to be a front-end developer.  
+🌱 I'm learning to be a front-end developer.  
 📝 I'm trying to write TIL everyday on [my blog](https://velog.io/@kimfriendship/series/TIL).  
 🔥 At the moment, I'm focusing on algorithms and data structure. 
 
@@ -18,6 +18,7 @@
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+<!--   <img alt="yarn" src="https://img.shields.io/badge/-Yarn-EC82BB?style=flat-square&logo=yarn&logoColor=white" />   -->
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </P>
 
