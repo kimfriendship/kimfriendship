@@ -3,9 +3,9 @@
 
 ### Things about me 👩🏻‍💻
 
-📝  I'm trying to write TIL everyday on [my blog](https://velog.io/@kimfriendship/series/TIL).  
-🔥  At the moment, I'm focusing on algorithms and data structure.   
-📬  If you'd like to see my resume, please email me!
+🔥  I'm focusing on learning vue at the moment.  
+📝  I'm planning to write about any kind of topics twice a week on [my blog](https://velog.io/@kimfriendship).     
+📗  If you'd like to know more about me, you can have a look at [my portfolio](https://kimfriendship.com). 
 
 
 ### Tools & Techs 🛠
