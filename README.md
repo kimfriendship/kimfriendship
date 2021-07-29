@@ -4,7 +4,7 @@
 ### Things about me 👩🏻‍💻
 
 🔥  I'm focusing on learning vue at the moment.  
-📝  I'm planning to write about any kind of topics twice a week on [my blog](https://velog.io/@kimfriendship).     
+📝  I'm planning to write about any kind of topics twice a week on my blog.     
 📗  If you'd like to know more about me, you can have a look at [my portfolio](https://kimfriendship.com). 
 
 
