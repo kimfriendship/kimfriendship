@@ -30,7 +30,7 @@
 ### Where to find me 👀
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/kimfriendship/)](https://github.com/kimfriendship/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kfriendship94@gmail.com)](mailto:kfriendship94@gmail.com)
-<img alt="git" src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@kimfriendship/series" />
+<!-- <img alt="git" src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@kimfriendship/series" /> -->
 
 
 <!--
